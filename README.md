@@ -1,2 +1,2 @@
 # git-github
-Tutorial
+This is for learning about git and github through youtube.
